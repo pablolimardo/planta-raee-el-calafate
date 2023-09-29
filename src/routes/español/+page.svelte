@@ -22,7 +22,7 @@
         </div>
     </div>
     <div class="info">
-      <h3 class="tituloL"><span id=N1>Desafíos Ambientales Globales y Locales</span></h3>
+      <h2 class="tituloL"><span id=N1>Desafíos Ambientales Globales y Locales</span></h2>
       <p class="letrasN">La creciente demanda y consumo de Artefactos Eléctricos y Electrónicos (AEE) en las últimas
         décadas ha generado un problema ambiental a nivel mundial debido a la incorrecta gestión de los
         desechos que producen. Esta problemática, silenciosa pero cada vez más peligrosa, representa una
@@ -30,12 +30,12 @@
         el Parque Nacional Perito Moreno y el Humedal Calafateño Laguna Nimez y Bahía del Lago
         Argentino, resulta urgente tomar medidas de conservación ambiental.
         </p>
-        <h3 class="tituloL"><span id=N2>Importancia de la Conservación Ambiental en El Calafate</span></h3>
+        <h2 class="tituloL"><span id=N2>Importancia de la Conservación Ambiental en El Calafate</span></h2>
         <p class="letrasN">Nuestra ubicación geográfica resalta la importancia de proteger la biodiversidad y las masas de agua
           dulce que nos rodean de la contaminación generada por desechos tóxicos como metales pesados y
           contaminantes orgánicos resistentes (CPOs). Estos elementos, bioacumulables y degradables con
           dificultad, plantean riesgos significativos para los ecosistemas acuáticos y la salud humana.</p>
-      <h3 class="tituloL"><span Id="N3">Educación y Acción: Abordando la Problemática de los Residuos Electrónicos</span></h3>
+      <h2 class="tituloL"><span Id="N3">Educación y Acción: Abordando la Problemática de los Residuos Electrónicos</span></h2>
       <p class="letrasN">Mediante un análisis y observación detallados, hemos identificado diversos AEE, desde dispositivos
         móviles hasta electrodomésticos, que contribuyen a esta problemática. Además, se ha notado una
         desinformación generalizada en la comunidad respecto al manejo adecuado de estos desechos
