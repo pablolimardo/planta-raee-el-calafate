@@ -25,7 +25,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>Escuela Industrial Nº9 "15 de noviembre" El Calafate	</p>
 	</footer>
 </div>
 
