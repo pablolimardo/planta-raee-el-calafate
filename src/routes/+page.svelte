@@ -97,12 +97,8 @@
         
     }
     .logo{
-        margin-top: 10px;
-        margin-left: 2px;
-        margin-right: 29px;
-        width: 280px;
-        margin-bottom: 19px;
-
+        margin: 10px;
+		width: 3em;
         height: auto; 
         
     }
