@@ -1,7 +1,7 @@
 <main>
     <div class="Banner">
         <div>
-            <img class="logo" src="logo.png" alt="Logo">
+            <img class="logo" src="LOGO-INDUS.png" alt="Logo">
         </div>
         <div class="infobar">
             <a  class ="boton1" href="https://goo.gl/maps/dqvZvKNunUZW1vAY9">Ubicacion</a>
