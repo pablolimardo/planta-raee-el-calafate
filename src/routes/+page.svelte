@@ -34,8 +34,6 @@
 <img src="proyecto_RAEE_00013.jpg" alt="">
 <img src="proyecto_RAEE_00014.jpg" alt="">
 <img src="proyecto_RAEE_00015.jpg" alt="">
-<img src="proyecto_RAEE_00016.jpg" alt="">
-<img src="proyecto_RAEE_00017.jpg" alt="">
 
 
 <style>
