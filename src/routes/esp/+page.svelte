@@ -1,12 +1,15 @@
-<main>
+
     <div class="Banner">
         <div>
             <img class="logo" src="logo.png" alt="Logo">
         </div>
         <div class="infobar">
+            <a  class ="boton1" href="/">inicio</a>
             <a  class ="boton1" href="https://goo.gl/maps/dqvZvKNunUZW1vAY9">Ubicacion</a>
+
         </div>
-    </div> 
+    </div>
+    <main>
     <div>
     </div>
       <div class="nota1">
@@ -89,6 +92,7 @@
         border-bottom: 1px solid #333; /* Línea sólida de 3 píxeles de ancho y color negro */
         width: 100%;
         z-index: 100;
+        padding: 1em 0;
     }
 
     .infobar{
@@ -100,7 +104,7 @@
         margin-top: 10px;
         margin-left: 2px;
         margin-right: 29px;
-        width: 280px;
+        width: 80px;
         margin-bottom: 19px;
 
         height: auto; 
